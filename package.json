@@ -20,6 +20,6 @@
     "bunyan": "^1.8.1",
     "cheerio": "^0.20.0",
     "fast-csv": "^1.1.0",
-    "request": "^2.72.0"
+    "request-promise": "^3.0.0"
   }
 }

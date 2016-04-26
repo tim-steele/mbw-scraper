@@ -1,0 +1,25 @@
+{
+  "name": "scraper",
+  "version": "0.0.0",
+  "description": "Scraper for gathering data from the Mailboxworks Web site.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tim-steele/mbw-scraper.git"
+  },
+  "author": "Tim Steele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tim-steele/mbw-scraper/issues"
+  },
+  "homepage": "https://github.com/tim-steele/mbw-scraper#readme",
+  "dependencies": {
+    "bunyan": "^1.8.1",
+    "cheerio": "^0.20.0",
+    "fast-csv": "^1.1.0",
+    "request": "^2.72.0"
+  }
+}
